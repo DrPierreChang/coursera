@@ -1,4 +1,4 @@
-###Lerning Objectives:
+Lerning Objectives:
 
 - Install Python and write your first program
 - Describe the basics of the Python programming language
