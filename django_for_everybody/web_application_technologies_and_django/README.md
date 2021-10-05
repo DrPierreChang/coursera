@@ -10,4 +10,5 @@ https://www.coursera.org/learn/django-database-web-apps/home/welcome
 
 Week5
 
+- Sample SQLite Command Line Operations  https://www.dj4e.com/lectures/SQL-01-Basics.txt
 - Command Line Shell For SQLite https://www.sqlite.org/cli.html
