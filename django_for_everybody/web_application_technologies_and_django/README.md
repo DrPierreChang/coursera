@@ -12,3 +12,4 @@ Week5
 
 - Sample SQLite Command Line Operations  https://www.dj4e.com/lectures/SQL-01-Basics.txt
 - Command Line Shell For SQLite https://www.sqlite.org/cli.html
+- SQLite Browser https://sqlitebrowser.org/
