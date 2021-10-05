@@ -5,3 +5,9 @@ https://www.coursera.org/learn/django-database-web-apps/home/welcome
 - Install and deploy a simple DJango application
 - Build simple web pages in HTML and style them using CSS
 - Explain the basic operations in SQL
+
+### Additional materials
+
+Week5
+
+- Command Line Shell For SQLite https://www.sqlite.org/cli.html
